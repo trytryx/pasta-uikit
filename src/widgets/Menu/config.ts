@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.pastafinance.com",
+        href: "https://exchange.epicswap.app",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.pastafinance.com/#/pool",
+        href: "https://exchange.epicswap.app/#/pool",
       },
     ],
   },
@@ -72,14 +72,14 @@ export const socials = [
     items: [
       {
         label: "Announcements",
-        href: "https://t.me/PastaFinanceAnnouncements",
+        href: "https://t.me/EpicNetworkChannel",
       }
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/pastafinance",
+    href: "https://twitter.com/epicnetworkapp",
   },
 ];
 
